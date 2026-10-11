@@ -1,3 +1,5 @@
+**ES** [Versión en español](comprobante-express-case-study_README.es.md)
+
 # Comprobante Express — Regulated E-invoicing Case Study
 
 > Status: **in progress** · Sanitized: no tax IDs, invoices, credentials or production URLs.
